@@ -1,0 +1,13 @@
+$primary-color:rgb(67, 67, 223);
+
+body{
+    color: $primary-color;
+    font-size: 50px;
+}
+
+.card{
+    transform: rotate(120deg);
+    // -webkit-transform: rotate(90deg);
+    filter: blur(3px);
+}
+
